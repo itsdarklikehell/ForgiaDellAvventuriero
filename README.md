@@ -2,6 +2,13 @@
 
 PWA offline per creare personaggi monoclasse compatibili con D&D 5e 2014. Il progetto usa Angular 21 standalone e zoneless, Taiga UI, Signals, RxJS e Dexie/IndexedDB.
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/ForgiaDellAvventuriero/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Avvio
 
 ```powershell
