@@ -53,6 +53,7 @@ jobs:
         with:
           name: ${{ github.event.repository.name }}-gource
           path: ./gource.mp4
+          retention-days: 30
 
       - name: Commit gource video
         run: |
